@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ChES IIT-Delhi
 
-Currently, two official plugins are available:
+This project includes the project files for the official website of the Chemical Engineering Society (ChES) at IIT Delhi.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Chemical Engineering Society (ChES) aims at bringing together the essence of what has been accomplished in the past to provide better pathways. It is designed to conduct intra-departmental events.
+
+## Official Handles
+
+[Twitter]()
+[LinkedIn]()
+[Website]()
+[E-mail]()
