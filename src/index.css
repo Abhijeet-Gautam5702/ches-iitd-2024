@@ -7,3 +7,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.bgHeroImage{
+  background-image: url("./assets/hero.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
