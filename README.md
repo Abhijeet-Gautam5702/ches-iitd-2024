@@ -7,7 +7,6 @@ The Chemical Engineering Society (ChES) aims at bringing together the essence of
 
 ## Official Handles
 
-[Twitter]()
-[LinkedIn]()
-[Website]()
+[LinkedIn](https://www.linkedin.com/company/chesiitdelhi/)
+[Website](https://chesiitd.netlify.app/)
 [E-mail]()
