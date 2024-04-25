@@ -7,7 +7,7 @@ import chesLogo from "../assets/ches_logo_accent.png";
 
 export default function Footer() {
   return (
-    <div className="bg-black w-full text-white p-8 pb-4">
+    <div className=" bg-black w-full text-white p-8 pb-4">
       {/* Footer Content*/}
       <div className="flex flex-row justify-between items-start">
         {/*CHES LOGO + socials*/}

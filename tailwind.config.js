@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       boxShadow:{
-        custom:"0px 6px 20px rgba(0,0,0,0.50)"
+        custom:"0px 6px 15px rgba(0,0,0,0.30)"
       },
       colors:{
         white:"#ffffff",

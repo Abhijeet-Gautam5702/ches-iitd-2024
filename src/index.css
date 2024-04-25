@@ -8,9 +8,17 @@
   box-sizing: border-box;
 }
 
-.bgHeroImage{
+.bgHeroImage {
   background-image: url("./assets/hero.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.blueGradient {
+  background: linear-gradient(135deg, #2700e6, #0ebbfa, #6100ff);
+}
+
+.yellowGradient {
+  background: linear-gradient(135deg, #e6ad00, #fab10e, #e3ff00);
 }

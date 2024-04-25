@@ -7,13 +7,13 @@ import Newsletter from "./components/Newsletter";
 
 function App() {
   return (
-    <div className="w-full flex flex-col justify-start">
-      <Header/>
-      <Hero/>
-      <Mid/>
-      <Events/>
-      <Newsletter/>
-      <Footer/>
+    <div className="min-h-screen w-full flex flex-col justify-start">
+      <Header onHome />
+      <Hero />
+      <Mid />
+      <Events />
+      <Newsletter />
+      <Footer />
     </div>
   );
 }

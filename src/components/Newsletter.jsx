@@ -3,9 +3,13 @@ import React from "react";
 export default function Newsletter() {
   return (
     <div className="w-full p-20 pt-0 font-primary flex flex-col justify-start items-stretch ">
-      <p className="text-5xl font-bold text-center">
-        OUR <span className="text-accent">NEWSLETTER</span>
-      </p>
+      <div className="flex flex-row justify-center items-center gap-2 text-5xl font-bold text-center text">
+        <p>OUR </p>
+        <p className="text-accent"> NEWSLETTER</p>
+        <p className="ml-2 text-sm py-2 px-3 font-normal blueGradient text-white rounded-sm">
+          COMING SOON
+        </p>
+      </div>
       <p className="text-2xl font-head mt-10 mb-4">
         Stay tuned with all that is happening in and around the Chemical
         Engineering Society
